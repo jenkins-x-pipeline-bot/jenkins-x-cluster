@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - jenkins-x-pipeline-bot/jenkins-x-cluster
-      target_url: http://dashboard-jx.
+      target_url: http://dashboard-jx.34.71.77.19.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
